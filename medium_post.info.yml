@@ -1,0 +1,6 @@
+name: Medium Post
+description: Allows drupal to synch to Medium
+package: Custom
+
+type: module
+core: 8.x
