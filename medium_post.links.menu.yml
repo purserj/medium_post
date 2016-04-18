@@ -1,0 +1,6 @@
+medium_post.admin:
+  title: 'Medium post Admin'
+  description: 'Settings for Medium API Integration'
+  parent: system.admin_config_development
+  route_name: medium_post.content
+  weight: 100

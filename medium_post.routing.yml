@@ -1,0 +1,7 @@
+medium_post.content:
+  path: '/medium_post'
+  defaults:
+    _controllers: '\Drupal\medium_post\Controller\MediumController::content'
+    _title: 'Medium post'
+  requirements:
+    _permission: 'access content'
